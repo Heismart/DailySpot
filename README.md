@@ -1,0 +1,2 @@
+# DailySpot
+Technical topics aggregation
